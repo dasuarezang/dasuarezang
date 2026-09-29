@@ -1,12 +1,9 @@
 # README.md
 <div align="center">
 
-<p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=2496ED&center=true&vCenter=true&width=600&height=80&lines=Hi%2C+my+name+is+Daniel!;Telecommunications+Engineering+student;Future+Cloud+Network+Engineer" alt="Typing SVG" />
-  <img src="pikachu-v2.gif" width="60" alt="Pikachu" />
-</p>
-
----
+<h2>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=2496ED&center=true&vCenter=true&width=600&height=80&lines=Hi%2C+my+name+is+Daniel!;Telecommunications+Engineering+student;Future+Cloud+Network+Engineer" alt="Typing SVG" /><img src="https://raw.githubusercontent.com/dasuarezang/dasuarezang/main/pikachu.gif?v=2" height="120" alt="Pikachu" />
+</h2>
 
 ### About me
 
