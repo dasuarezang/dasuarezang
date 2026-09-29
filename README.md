@@ -2,8 +2,8 @@
 <div align="center">
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=2496ED&center=true&vCenter=true&width=600&height=80&lines=Hi%2C+my+name+is+Daniel!;Telecommunications+Engineering+student;Future+Cloud+Network+Engineer" alt="Typing SVG" />
-  <img src="https://i.gifer.com/WG8V.gif" width="60" alt="Pikachu" />
+   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=2496ED&center=true&vCenter=true&width=600&height=80&lines=Hi%2C+my+name+is+Daniel!;Telecommunications+Engineering+student;Future+Cloud+Network+Engineer" alt="Typing SVG" />
+  <img src="pikachu.gif" width="60" alt="Pikachu" />
 </p>
 
 ---
